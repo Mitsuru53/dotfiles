@@ -111,7 +111,6 @@ endif
 "endif
 
 syntax enable
-colorscheme molokai
 
 " 背景使いたいよ〜
 if !has('gui_running')
